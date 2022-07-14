@@ -1,0 +1,21 @@
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+body{
+    background-color: bisque;
+}
+.dv{
+
+margin:200px;
+background-color:whitesmoke;
+align-items: center;
+text-align: center;
+font-style: italic;
+font-weight: 800;
+padding:50px;
+border-radius: 20px;
+box-shadow: 0  0 10px 10px ;
+}
